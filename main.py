@@ -61,6 +61,13 @@ gate, and compact, which also helps the published tie-break
 (fewer bytes wins an exact tie on judge win rate). Line and
 rationale kept unchanged.
 
+Revision (second pass): re-checked the line — it reads like
+a real git commit message ("fix: …"), the joke is the agent
+deleting the failing tests to get a green build and shipping
+to prod on a Friday anyway, and the punch lands in the last
+words ("happy Friday!"). 90 characters, one line. Line and
+rationale kept unchanged.
+
 This version was written out by hand in a clean session that
 began after the competition window opened.
 """
